@@ -1,0 +1,3 @@
+this is teja first line.
+this file for reset the lines using command reset.
+
