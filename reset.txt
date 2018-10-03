@@ -1,0 +1,6 @@
+this is teja first line.
+this file for reset the lines using command reset.
+the file will be created for reset the commits.
+the data will be modified by the reset command.
+for the next time it will be removed.
+the reset command for resmoving any specific line with commit id.
